@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="260" viewBox="0 0 1000 260" role="img" aria-label="John Ashraf - Full Stack Engineer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0f172a"/>
+      <stop offset="1" stop-color="#1e1b4b"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#38bdf8"/>
+      <stop offset="1" stop-color="#a78bfa"/>
+    </linearGradient>
+  </defs>
+  <rect width="1000" height="260" rx="14" fill="url(#bg)"/>
+  <g opacity="0.12" fill="none" stroke="#94a3b8">
+    <path d="M0 200 H1000 M0 160 H1000 M0 120 H1000"/>
+    <path d="M700 0 V260 M800 0 V260 M900 0 V260"/>
+  </g>
+  <text x="60" y="82" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" fill="#94a3b8">Hi, I'm</text>
+  <text x="60" y="138" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="58" font-weight="700" fill="#f8fafc">John Ashraf</text>
+  <rect x="60" y="150" width="140" height="5" rx="2.5" fill="url(#accent)"/>
+  <text x="60" y="196" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="26" fill="url(#accent)">Full Stack Engineer</text>
+  <text x="60" y="228" font-family="Consolas, Menlo, monospace" font-size="17" fill="#cbd5e1">Node.js · TypeScript · React · Next.js · PostgreSQL</text>
+  <g font-family="Consolas, Menlo, monospace" font-size="16" fill="#e2e8f0">
+    <rect x="700" y="70" width="240" height="120" rx="10" fill="#0b1220" stroke="#334155"/>
+    <circle cx="718" cy="86" r="4" fill="#f87171"/><circle cx="732" cy="86" r="4" fill="#fbbf24"/><circle cx="746" cy="86" r="4" fill="#4ade80"/>
+    <text x="718" y="120" fill="#38bdf8">$ whoami</text>
+    <text x="718" y="144">remote-first engineer</text>
+    <text x="718" y="168" fill="#a78bfa">$ ship --end-to-end</text>
+  </g>
+</svg>

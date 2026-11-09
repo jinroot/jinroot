@@ -1,4 +1,5 @@
-# Hi, I'm John Ashraf 👋
+<p align="center"><img src="banner.svg" alt="John Ashraf - Full Stack Engineer" width="100%"/></p>
+
 
 **Full Stack Engineer** — I build and ship web platforms end to end: database schema → REST APIs → React frontend → deployment. Open to **fully remote** Full Stack / Backend roles worldwide.
 
@@ -27,6 +28,13 @@
 
 I also work with AI coding agents (Claude Code): clearly scoped specs, and I review everything before it ships.
 
+## Highlights
+
+- ~900% active-user growth on a platform I built and own end to end
+- 70% of ALSAYiS project funding secured (30% FabLab, 40% competition prizes) — quarterfinalist at MIE and Egypt Industry 4.0
+- Up to 90% less manual turnaround from internal workflow automation
+- Case study of my production store: [madebyjinjin-case-study](https://github.com/jinroot/madebyjinjin-case-study)
+
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/johnashraf) · john.ashraf.g@gmail.com · Cairo, Egypt (UTC+2) — remote
+[LinkedIn](https://www.linkedin.com/in/johnashraf) · [Email](mailto:john.ashraf.g@gmail.com) · Cairo, Egypt (UTC+2) · open to remote work worldwide and relocation
